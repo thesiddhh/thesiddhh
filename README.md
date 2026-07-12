@@ -1,137 +1,99 @@
-<h1 align="center">Hi 👋, I'm Venkata Sai Siddharth Korada</h1>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<h3 align="center">
-Full Stack Developer • AI Enthusiast • C++ Programmer
-</h3>
+# Hello, I'm  
+# Venkata Sai  
+# **SIDDHARDHA Korada**
 
-<img align="right" alt="Profile Art" width="270" src="assets/dot-art.png"/>
+### Full Stack Developer • AI Enthusiast • C++ Programmer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thesiddhh&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<br>
 
----
+## About Me
 
-## 👨‍💻 About Me
+- B.Tech CSE (3rd Year)
+- Learning Full Stack Development
+- Exploring Artificial Intelligence
+- Building real-world projects
+- Passionate about Data Structures & Algorithms
 
-🎓 B.Tech CSE Student
-
-🌱 Currently learning **Full Stack Development & DSA**
-
-🤖 Exploring **Machine Learning & AI**
-
-💡 Building projects using **React, Node.js, Flask**
-
-🚀 Currently working on **FaceAttend Pro**
-
-📫 Reach me at **your-email@example.com**
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
-
----
-
-# 🚀 Featured Project
-
-## FaceAttend Pro
-
-AI-Based Real-Time Face Recognition Attendance System
-
-### Features
-
-- Face Detection
-- Face Recognition
-- Admin Dashboard
-- Attendance Reports
-- Email Notifications
-- Flask + OpenCV + FaceNet
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thesiddhh&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddhh&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thesiddhh&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thesiddhh&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://leetcode.com/YOUR-LEETCODE">
-<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
-</a>
+<br>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://img.shields.io/badge/Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="assets/dot-art.png" width="320"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-<p align="center">
+# GitHub Statistics
 
-⭐ *"Building things one commit at a time."*
+<table>
+<tr>
 
-</p>
+<td width="45%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=thesiddhh&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="55%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night"/>
+
+</td>
+
+</tr>
+</table>
