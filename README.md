@@ -32,7 +32,7 @@ Hello, I'm<br>
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://https://portfolio-siddhardha.vercel.app/">
+<a href="https://portfolio-siddhardha.vercel.app/">
 <img src="https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
