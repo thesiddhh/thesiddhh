@@ -2,8 +2,7 @@
 
 <h1>
 Hello, I'm<br>
-Venkata Sai<br>
-<b>SIDDHARDHA Korada</b>
+<b>Sidhardha</b>
 </h1>
 
 <h3>Full Stack Developer • AI Enthusiast • C++ Programmer</h3>
@@ -92,16 +91,6 @@ Venkata Sai<br>
 <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=thesiddhh&theme=tokyonight&hide_border=true"/>
 
 <img width="52%" src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thesiddhh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddhh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
