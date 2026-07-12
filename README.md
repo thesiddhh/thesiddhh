@@ -1,76 +1,69 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<h1>Hello, I'm <br>
+Venkata Sai <br>
+<b>SIDDHARDHA Korada</b></h1>
 
-# Hello, I'm  
-# Venkata Sai  
-# **SIDDHARDHA Korada**
+<h3>Full Stack Developer • AI Enthusiast • C++ Programmer</h3>
 
-### Full Stack Developer • AI Enthusiast • C++ Programmer
-
-<br>
+<img align="right" width="310" src="assets/dot-art.png">
 
 ## About Me
 
 - B.Tech CSE (3rd Year)
 - Learning Full Stack Development
 - Exploring Artificial Intelligence
-- Building real-world projects
 - Passionate about Data Structures & Algorithms
 
 <br>
 
+<p>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</td>
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
-<td width="40%" align="right">
-
-<img src="assets/dot-art.png" width="320"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
-## Programming Languages
+### 💡 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
 </p>
 
-## Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
 </p>
 
-## Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
 
-## Database
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 </p>
 
-## Tools
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -78,22 +71,10 @@
 
 ---
 
-# GitHub Statistics
+# 📊 GitHub Analytics
 
-<table>
-<tr>
+<p align="center">
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=thesiddhh&theme=tokyonight&hide_border=true"/>
 
-<td width="45%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thesiddhh&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="55%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night"/>
-
-</td>
-
-</tr>
-</table>
+<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night"/>
+</p>
