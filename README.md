@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm
 
-# **SIDHARDHA**
+# **SIDDHARDHA**
 
 ### Full Stack Developer • AI Enthusiast • C++ Programmer
 
