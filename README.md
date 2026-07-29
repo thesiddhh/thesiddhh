@@ -96,8 +96,6 @@ Building modern web applications, exploring Artificial Intelligence, and solving
 
 <p align="center">
 
-<img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=thesiddhh&theme=tokyonight&hide_border=true"/>
-
 <img width="52%" src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night"/>
 
 </p>
