@@ -96,25 +96,15 @@ Building modern web applications, exploring Artificial Intelligence, and solving
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thesiddhh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesiddhh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddhh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddhh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thesiddhh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
 </p>
 
