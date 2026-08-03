@@ -1,11 +1,13 @@
+<div align="center">
+
 <table>
-<tr> 
+<tr>
 
 <td width="60%" valign="middle">
 
-# 👋 Hello, I'm
+## 👋 Hello, I'm
 
-# **SIDDHARDHA**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=46&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=500&lines=Siddhardha." alt="Siddhardha"/>
 
 ### Full Stack Developer • AI Enthusiast • C++ Programmer
 
@@ -22,33 +24,35 @@ Building modern web applications, exploring Artificial Intelligence, and solving
 <br>
 
 <a href="mailto:kvsaisiddhardha2117@gmail.com">
-<img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/venkatasaisiddhardhakorada/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/thesiddhhh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://portfolio-siddhardha.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="assets/dot-art.png" width="300"/>
+<img src="assets/dot-art.png" width="320"/>
 
 </td>
 
 </tr>
 </table>
 
-<br>
+</div>
+
+---
 
 # 💻 Tech Stack
 
@@ -59,15 +63,13 @@ Building modern web applications, exploring Artificial Intelligence, and solving
 
 ### 💡 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
+
+<br><br>
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 
 </td>
 
@@ -75,15 +77,13 @@ Building modern web applications, exploring Artificial Intelligence, and solving
 
 ### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+
+<br><br>
 
 ### 🗄️ Database & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode,postman"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode,postman" />
 
 </td>
 
@@ -96,7 +96,25 @@ Building modern web applications, exploring Artificial Intelligence, and solving
 
 <p align="center">
 
-<img width="52%" src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thesiddhh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesiddhh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thesiddhh&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thesiddhh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
 </p>
 
